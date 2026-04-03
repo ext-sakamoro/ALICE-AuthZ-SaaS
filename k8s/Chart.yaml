@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_AUTHZ
+name: alice-authz
 description: ALICE AuthZ
 type: application
 version: 0.1.0
